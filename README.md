@@ -1,2 +1,6 @@
 # Whisker-s-2.4
-Config files
+Instructions can be found in Manual/README.md
+
+_______________________________________________________________________________________
+With love, from Suzuki
+uWu
