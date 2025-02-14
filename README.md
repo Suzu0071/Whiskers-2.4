@@ -1,4 +1,4 @@
-# Whisker-s-2.4
+# Whiskers-2.4
 Instructions can be found in Manual/README.md
 
 _______________________________________________________________________________________
