@@ -9,8 +9,7 @@ KAMP related (Voron purge line, adaptive meshing, etc.):
   Download from here ^
 
 Beacon related:
-  https://docs.beacon3d.com/quickstart/
-  Download from here ^
+  Read this: https://docs.beacon3d.com/quickstart/
   And change Beacon.cfg
   
 In Main.cfg:
