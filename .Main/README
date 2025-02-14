@@ -1,0 +1,34 @@
+  __                
+ (_   _ _|_     ._  
+ __) (/_ |_ |_| |_) 
+                |   
+                
+_______________________________________________________________________________________
+Kamp related:
+  https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main
+  Download from here ^
+  
+In Main.cfg:
+  THINGS TO CHANGE/CHECK: 
+   MCU paths                            [mcu] section
+   Thermistor types                     [extruder] and [heater_bed] sections - See https://www.klipper3d.org/Config_Reference.html#common-thermistors for common thermistor types
+   Z Endstop Switch location            [safe_z_home] section
+   Homing end position                  [gcode_macro G32] section
+   Z Endstop Switch  offset for Z0      [stepper_z] section
+   Probe points                         [quad_gantry_level] section
+   Min & Max gantry corner postions     [quad_gantry_level] section
+   PID tune                             [extruder] and [heater_bed] sections
+   Probe pin                            [probe] section
+   Fine tune E steps                    [extruder] section
+   Tune driver_SGT for sensorless       [tmc] section for X and Y
+
+###
+RECHECK MACROS (in Macros.cfg)
+  I included a modified version of my PRINT_START, but everything else is taken from the LDO .cfg
+###
+
+
+
+_______________________________________________________________________________________
+With love, from Suzuki
+uWu
