@@ -4,7 +4,7 @@
                 |   
                 
 _______________________________________________________________________________________
-KAMP related:
+KAMP related (Voron purge line, adaptive meshing, etc.):
   https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main
   Download from here ^
   
@@ -15,8 +15,8 @@ In Main.cfg:
    Z Endstop Switch location            [safe_z_home] section
    Homing end position                  [gcode_macro G32] section
    Z Endstop Switch  offset for Z0      [stepper_z] section
-   Probe points                         [quad_gantry_level] section
-   Min & Max gantry corner postions     [quad_gantry_level] section
+   Probe points                         [quad_gantry_level] section in Bed_Mesh.cfg
+   Min & Max gantry corner postions     [quad_gantry_level] section in Bed_Mesh.cfg
    PID tune                             [extruder] and [heater_bed] sections
    Probe pin                            [probe] section
    Fine tune E steps                    [extruder] section
