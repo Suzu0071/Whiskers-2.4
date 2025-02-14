@@ -4,7 +4,7 @@
                 |   
                 
 _______________________________________________________________________________________
-Kamp related:
+KAMP related:
   https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main
   Download from here ^
   
@@ -26,8 +26,6 @@ In Main.cfg:
 RECHECK MACROS (in Macros.cfg)
   I included a modified version of my PRINT_START, but everything else is taken from the LDO .cfg
 ###
-
-
 
 _______________________________________________________________________________________
 With love, from Suzuki
