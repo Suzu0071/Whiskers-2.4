@@ -13,7 +13,6 @@ In Main.cfg:
    MCU paths                            [mcu] section
    Thermistor types                     [extruder] and [heater_bed] sections - See https://www.klipper3d.org/Config_Reference.html#common-thermistors for common thermistor types
    Z Endstop Switch location            [safe_z_home] section
-   Homing end position                  [gcode_macro G32] section
    Z Endstop Switch  offset for Z0      [stepper_z] section
    PID tune                             [extruder] and [heater_bed] sections
    Probe pin                            [probe] section
