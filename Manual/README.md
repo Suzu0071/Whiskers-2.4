@@ -17,5 +17,3 @@ Then, change Printer.cfg to:
 Instruction relating to the config itself can be found in .Main/README
 
 _______________________________________________________________________________________
-With love, from Suzuki
-# UwU
