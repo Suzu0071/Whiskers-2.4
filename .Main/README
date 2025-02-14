@@ -11,6 +11,7 @@ KAMP related (Voron purge line, adaptive meshing, etc.):
 Beacon related:
   https://docs.beacon3d.com/quickstart/
   Download from here ^
+  And change Beacon.cfg
   
 In Main.cfg:
   THINGS TO CHANGE/CHECK: 
