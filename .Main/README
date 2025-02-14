@@ -15,12 +15,15 @@ In Main.cfg:
    Z Endstop Switch location            [safe_z_home] section
    Homing end position                  [gcode_macro G32] section
    Z Endstop Switch  offset for Z0      [stepper_z] section
-   Probe points                         [quad_gantry_level] section in Bed_Mesh.cfg
-   Min & Max gantry corner postions     [quad_gantry_level] section in Bed_Mesh.cfg
    PID tune                             [extruder] and [heater_bed] sections
    Probe pin                            [probe] section
    Fine tune E steps                    [extruder] section
    Tune driver_SGT for sensorless       [tmc] section for X and Y
+
+In Bed_Related.cfg:
+  THINGS TO CHANGE/CHECK:
+    Probe points                         [quad_gantry_level] section
+    Min & Max gantry corner postions     [quad_gantry_level] section
 
 ###
 RECHECK MACROS (in Macros.cfg)
