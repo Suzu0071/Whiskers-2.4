@@ -1,5 +1,7 @@
 ## How to get it working?
 
+First, enable "show hidden files" in the settings of the Machine menu
+
 Paste the .Main folder into klipper:
 
 ![](https://github.com/Suzu0071/Whiskers-2.4/blob/main/Manual/1.png)
