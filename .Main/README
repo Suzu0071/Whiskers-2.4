@@ -7,6 +7,7 @@ ________________________________________________________________________________
 KAMP related (Voron purge line, adaptive meshing, etc.):
   https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main
   Download from here ^
+  If you'll be using the KAMP adaptive meshing, remove the [bed_mesh] section from .Main/Bed_Mesh.cfg
   
 In Main.cfg:
   THINGS TO CHANGE/CHECK: 
