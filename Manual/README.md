@@ -11,7 +11,7 @@ Enabling/disabling config files is done through Hub.cfg
 _______________________________________________________________________________________
 Then, change Printer.cfg to:
 
-![](https://github.com/Suzu0071/Whiskers-2.4/blob/main/Manual/3.png)
+![](https://github.com/Suzu0071/Whiskers-2.4/blob/main/Manual/2.png)
 
 Instruction relating to the config itself can be found in .Main/README
 
